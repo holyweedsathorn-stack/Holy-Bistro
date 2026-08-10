@@ -1,0 +1,17 @@
+{
+  "name": "holy-bistro",
+  "version": "1.0.0",
+  "description": "Holy Bistro — Modern Italian, Sathorn Bangkok",
+  "private": true,
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'Static HTML site, no build needed'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
